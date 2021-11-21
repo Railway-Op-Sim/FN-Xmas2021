@@ -1,0 +1,8 @@
+rly_file = "Xmas2021.rly"
+ttb_files = [ "Xmas2021.ttb",]
+ssn_files = [ "Xmas2021.ssn",]
+country_code = "FN"
+name = ""
+description = ""
+display_name = "Xmas2021"
+author = "Kristian Zarębski"
